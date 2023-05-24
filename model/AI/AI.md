@@ -4,7 +4,7 @@ SPDX-License-Identifier: Community-Spec-1.0
 
 ## Summary
 
-Additional metadata based on software profile, that is useful for ai applications and models.
+Additional metadata based on software profile, that is useful for AI applications and models.
 
 ## Description
 
